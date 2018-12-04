@@ -1,0 +1,19 @@
+*{
+    border-radius: 5px;
+    background: transparent;
+    margin-bottom: 5px;
+    color: gray;
+}
+.container-wrapper{
+    background-color: skyblue;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+@media screen and (max-width: 500px){
+
+    .container-wrapper{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}

@@ -1,0 +1,19 @@
+/* Login Form */
+
+input{
+    min-height: 15px;
+    max-width: 300px;
+    
+}
+button{
+    background: transparent;
+    color: gray;
+}
+a {
+    text-decoration: none;
+    display: block;
+    color: grey;
+}
+a :hover{
+    background: transparent;
+}
